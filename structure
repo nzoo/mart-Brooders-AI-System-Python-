@@ -1,0 +1,22 @@
+smart-brooders-python/
+│
+├── backend/
+│   ├── app.py
+│   ├── ai_model/
+│   │   └── anomaly_detection.py
+│   ├── routes/
+│   │   └── sensor_routes.py
+│   └── models/
+│       └── sensor_data.py
+│
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+│
+├── database/
+│   └── db.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
